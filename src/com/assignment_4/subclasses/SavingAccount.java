@@ -1,6 +1,7 @@
-package com.assignment_4.main;
+package com.assignment_4.subclasses;
 import java.util.UUID;
-import com.assignment_4.subclasses.BankAccount;
+
+import com.assignment_4.superclasses.BankAccount;
 
 public class SavingAccount extends BankAccount{
 	public SavingAccount() {	
